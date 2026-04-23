@@ -1,7 +1,6 @@
 class Verso < Formula
   desc "Terminal EPUB reader with vim navigation and Markdown highlight export"
   homepage "https://github.com/romankhadka/verso"
-  version "0.1.0"
   license any_of: ["MIT", "Apache-2.0"]
 
   on_macos do
