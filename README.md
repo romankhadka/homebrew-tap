@@ -20,6 +20,7 @@ brew install romankhadka/tap/<formula>
 | Formula | Description |
 | ------- | ----------- |
 | `verso` | Terminal EPUB reader with vim navigation and Markdown highlight export. See [github.com/romankhadka/verso](https://github.com/romankhadka/verso). |
+| `yakka` | Terminal multiplexer for running Claude Code and Codex side by side. See [github.com/romankhadka/yakka](https://github.com/romankhadka/yakka). |
 
 ## Updating a formula
 
